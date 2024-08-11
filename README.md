@@ -1,4 +1,4 @@
-## SOAP (Simple Object Access Protocol) with Java using Jay-WS
+## SOAP (Simple Object Access Protocol) with Java using Jax-WS
 
 ### Jax-Ws is the most-used library for SOAP-Services.
 ### Here we used 2 classes 'Customer' and 'Account' (one-To-Many relationship) without Hibernate or any framework ,just pure java code 
@@ -7,4 +7,4 @@
 
 ### These web methodes are tested using the popular SoapUI-tools
 
-
+### We can then use like JAXB-API for XML-JavaClasses Mapping
